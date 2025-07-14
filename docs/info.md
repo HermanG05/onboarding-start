@@ -11,9 +11,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+Uses SPI peripheral to recieve data and control PWM
+
 ## How to test
 
 Explain how to use your project
+
+Uses the cocotb in python to test the module
 
 ## External hardware
 
