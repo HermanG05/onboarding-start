@@ -22,3 +22,5 @@ Uses the cocotb in python to test the module
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
+SPI Controller
